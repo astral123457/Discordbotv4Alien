@@ -6,6 +6,10 @@ Discord bot v4 Alien tema Alienware Dell Fonte para an√∫ncios de entradada e sa√
 
 Crie um arquivo .env 
 
+![image](https://github.com/user-attachments/assets/22b1fc2a-b864-443c-bbb2-96e00b725f8a)
+
+![image](https://github.com/user-attachments/assets/0bf33dd5-0e05-48c1-b67c-1060ad49a2fa)
+
 # ++++++++++++++++++++++++++++++++++++++++++++.env+++++++++++++++++++++++++++++++++++++++++++
 
 
